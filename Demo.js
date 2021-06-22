@@ -12,7 +12,8 @@ export default class Demo extends Component {
     return (
       <View>
         <Text> Demo </Text>
+        <Text>Demo 2</Text>
       </View>
     );
   }
-}
+
