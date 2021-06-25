@@ -12,6 +12,8 @@ export default class Demo3 extends Component {
     return (
       <View>
         <Text> Demo3 </Text>
+        <Text> Demo3 </Text>
+        <Text> Demo3 </Text>
       </View>
     );
   }
